@@ -19,6 +19,7 @@ Repository for practice in Software System Development 2025
   * Hello! This is Thomas!
   * Love from France!
   * This is my commit in the Repo! #LN4 #KO8
+  * Hi! I'm Daisuke Narita (2411218) - Love from Japan!
 * bottom:
 ####
 

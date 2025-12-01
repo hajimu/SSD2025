@@ -10,6 +10,7 @@ Repository for practice in Software System Development 2025
 * top:
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
-  * Hi! Hi! I'm Sila!
+  * Hi! Hi! Sila desu!
+  * Love from IS!
 * bottom:
 ####

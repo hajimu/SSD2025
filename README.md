@@ -22,8 +22,6 @@ Repository for practice in Software System Development 2025
   * Have a nice day!
   * Hope you are having a great day!
   * NOTHING beats a JET2HOLIDAY!!!
-  * Hello! This is Yugant(2511417)! 
-  * from India
-  * 
+  * What a relief.
 * bottom:
 ####

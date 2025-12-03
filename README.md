@@ -1,6 +1,6 @@
 # SSD2025
 
-Repository for practice in :contentReference[oaicite:0]{index=0} 2025
+Repository for practice in Software System Development 2025
 
 ## Add your ~~original~~ unique line below starting with '* ' to be formatted as an item.
 
@@ -10,10 +10,13 @@ Repository for practice in :contentReference[oaicite:0]{index=0} 2025
 * top:
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
+  * Hi I'm Koki Shibata!
   * Love from IS!
-
-* Added by Yugant Gotmare 
-* Student Number: 2511417
-
+  * North London Is RED!
+  * Hello! This is Thomas!
+  * Love from France!
+  * Hello! This is Yugant(2511417)! 
+  * from India
+  * 
 * bottom:
 ####

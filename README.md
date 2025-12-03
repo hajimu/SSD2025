@@ -16,6 +16,11 @@ Repository for practice in Software System Development 2025
   * North London Is RED!
   * Hello! This is Thomas!
   * Love from France!
+  * Brace Yourselves! Winter is Coming!
+  * This is my commit in the Repo! #LN4 #KO8
+  * Don't forget to be awesome!
+  * Hope you are having a great day!
+  * NOTHING beats a JET2HOLIDAY!!!
   * Hello! This is Yugant(2511417)! 
   * from India
   * 

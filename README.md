@@ -28,6 +28,7 @@ Repository for practice in Software System Development 2025
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
   * Enjoy coding!
+  * Greetings from Ikoma!
   * import pandas as pd
   * hello world!
   * hello world!

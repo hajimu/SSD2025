@@ -32,6 +32,7 @@ Repository for practice in Software System Development 2025
   * import pandas as pd
   * hello world!
   * hello world!
+  * Hello! I'm YU!
   * hello
 * bottom:
 ####

@@ -29,5 +29,8 @@ Repository for practice in Software System Development 2025
   * What a relief.
   * Enjoy coding!
   * import pandas as pd
+  * hello world!
+  * hello world!
+  * hello
 * bottom:
 ####

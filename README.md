@@ -23,10 +23,12 @@ Repository for practice in Software System Development 2025
   * Don't forget to be awesome!
   * Have a nice day!
   * Hope you are having a great day!
+  * Hi everyone!
   * Hello
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
   * Enjoy coding!
+  * hello world!
   * hello world!
 * bottom:
 ####

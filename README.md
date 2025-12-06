@@ -34,5 +34,6 @@ Repository for practice in Software System Development 2025
   * hello world!
   * Hello! I'm YU!
   * hello
+  * Have a nice weekend~
 * bottom:
 ####

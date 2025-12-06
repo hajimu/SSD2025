@@ -23,16 +23,17 @@ Repository for practice in Software System Development 2025
   * Don't forget to be awesome!
   * Have a nice day!
   * Hope you are having a great day!
+  * Hi everyone!
   * Hello
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
   * Enjoy coding!
-  * It's been getting cold lately.
-  * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
+  * Greetings from Ikoma!
+  * import pandas as pd
+  * hello world!
+  * hello world!
+  * Hello! I'm YU!
+  * hello
   * Have a nice weekend~
-
 * bottom:
-
-#### 
-
-
+####

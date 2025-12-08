@@ -10,6 +10,7 @@ Repository for practice in Software System Development 2025
 
 * top:
 
+  * 妖狐そう、私のサウロソサイチへ
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
   * こんにちは、パコーンです\\0w0/!
@@ -23,6 +24,7 @@ Repository for practice in Software System Development 2025
   * Don't forget to be awesome!
   * Have a nice day!
   * Hope you are having a great day!
+  * Hi everyone!
   * Hello
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
@@ -31,8 +33,16 @@ Repository for practice in Software System Development 2025
   * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
   * Guys Where is the best place to eat in OSAKA ? 
 
+  * Greetings from Ikoma!
+  * import pandas as pd
+  * hello world!
+  * hello world!
+  * Hello! I'm YU!
+  * hello
+  * Have a nice weekend~
+  * Hello! I'm Izumi!
+  * Hello~
+  * good morning!
+  * Hello! Good evening
 * bottom:
-
-#### 
-
-
+####

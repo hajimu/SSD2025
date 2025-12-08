@@ -32,6 +32,7 @@ Repository for practice in Software System Development 2025
   * Enjoy coding!
   * It's been getting cold lately.
   * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
+  *Don't work on the master branch!
   * Guys Where is the best place to eat in OSAKA ? 
 
   * Greetings from Ikoma!

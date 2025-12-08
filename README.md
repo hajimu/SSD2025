@@ -43,9 +43,7 @@ Repository for practice in Software System Development 2025
   * Hello! I'm Izumi!
   * Hello~
   * good morning!
+  * Hi
   * Hello! Good evening
-  * Hello! World!
-  * Usagi Daisuki
-  * Good evening
 * bottom:
 ####

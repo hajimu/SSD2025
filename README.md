@@ -10,6 +10,7 @@ Repository for practice in Software System Development 2025
 
 * top:
 
+  * 妖狐そう、私のサウロソサイチへ
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
   * こんにちは、パコーンです\\0w0/!
@@ -35,7 +36,11 @@ Repository for practice in Software System Development 2025
   * Hello! I'm YU!
   * hello
   * Have a nice weekend~
+  * Hello! I'm Izumi!
   * Hello~
   * Hi!
+  * Have an amazing week you all!!!!
+  * Can't wait for Christmas ! 
+  * Konnichiwa!
 * bottom:
 ####

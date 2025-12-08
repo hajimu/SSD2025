@@ -38,9 +38,6 @@ Repository for practice in Software System Development 2025
   * Have a nice weekend~
   * Hello! I'm Izumi!
   * Hello~
-  * Hi!
-  * Have an amazing week you all!!!!
-  * Can't wait for Christmas ! 
-  * Konnichiwa!
+  * Hi! Git is pretty, isn't it?
 * bottom:
 ####

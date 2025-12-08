@@ -29,6 +29,10 @@ Repository for practice in Software System Development 2025
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
   * Enjoy coding!
+  * It's been getting cold lately.
+  * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
+  * Guys Where is the best place to eat in OSAKA ? 
+
   * Greetings from Ikoma!
   * import pandas as pd
   * hello world!
@@ -45,5 +49,6 @@ Repository for practice in Software System Development 2025
 
 
   * Usagi Daisuki
+  * Good evening
 * bottom:
 ####

@@ -50,6 +50,7 @@ Repository for practice in Software System Development 2025
   * Hello! Good evening
   * Hello!
   * good good study!day day up!
+  * It cold outside
 
   * I'm the END.
 * bottom:

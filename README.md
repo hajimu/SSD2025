@@ -52,6 +52,7 @@ Repository for practice in Software System Development 2025
   * Hello!
   * good good study!day day up!
   * It cold outside
+  * GPT-5.2 is out!
 
   * I'm the END.
 * bottom:
